@@ -12,7 +12,7 @@ class DMOTD(object):
     
     def raw(self):
         response = get(self.endpoint + "/raw")
-        return response.text()
+        return response.text
     
     def json(self):
         response = get(self.endpoint + "/json")

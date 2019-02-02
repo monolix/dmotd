@@ -18,6 +18,10 @@ If you want to install it in a virtual environment, just run before installing
 source <envdir>/bin/activate
 ```
 
+## Documentation
+
+You can find all the docs relative to this project on its [wiki](https://github.com/monolix/dmotd/wiki/Docs-homepage).
+
 ## Contributing
 
 If you want to contribute to this open source project, you're free to pull-request us! We'll review your submission as soon as we can.
