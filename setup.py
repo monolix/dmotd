@@ -19,7 +19,7 @@ setup(
     long_description_content_type="text/markdown",
     url="http://github.com/monolix/dmotd",
     author="Monolix",
-    author_email="emalillo270304@gmail.com",
+    author_email="monolix.team@gmail.com",
     license="MIT",
     packages=["dmotd"],
     install_requires=get_file_conts("requirements.txt").split("\n"),
