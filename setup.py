@@ -1,4 +1,4 @@
-# Copyright (c) 2019 emanuele
+# Copyright (c) 2019 Monolix
 # 
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
@@ -13,7 +13,7 @@ def get_file_conts(file):
 
 setup(
     name="dmotd",
-    version="0.0.1",
+    version="0.0.2",
     description="Dynamic Message Of The Day.",
     long_description=get_file_conts("README.md"),
     long_description_content_type="text/markdown",
